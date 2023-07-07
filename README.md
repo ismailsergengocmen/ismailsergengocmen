@@ -5,7 +5,7 @@
 ### Software Engineer
 
 - 🌱 I’m currently practicing back-end development
-- <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently Software Engineer at [BILSEN](https://bilsen.cs.bilkent.edu.tr/)
+- <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently software engineer at [BILSEN](https://bilsen.cs.bilkent.edu.tr/)
 - 📫 How to reach me: 
 <a href="https://linkedin.com/in/ismailsergengocmen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20" width="20" /></a>
 
@@ -32,7 +32,7 @@
 
 ### 📟 GitHub Stats
   <p align="left">
-    <img align="center" alt="ismailsergengocmen GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ismailsergengocmen&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+    <img align="center" alt="ismailsergengocmen GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ismailsergengocmen&show_icons=true&hide_border=false&theme=vue" />
   </p>
 
 ### 💳 Github Profile Summary Card
