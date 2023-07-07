@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailsergengocmen&label=Views&color=blue&style=plastic&style=for-the-badge" alt="ismailsergengocmen" /> </p>
 
-## Software Engineer
+### Software Engineer
 
 - 🌱 I’m currently practicing back-end development
 - <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently Software Engineer at [BILSEN](https://bilsen.cs.bilkent.edu.tr/)
@@ -30,12 +30,12 @@
 
 ---
 
-## 📟 GitHub Stats
+### 📟 GitHub Stats
   <p align="left">
     <img align="center" alt="ismailsergengocmen GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ismailsergengocmen&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   </p>
 
-## 💳 Github Profile Summary Card
+### 💳 Github Profile Summary Card
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailsergengocmen&theme=vue"/>
 </p>
