@@ -1,8 +1,7 @@
 # Hi there, I'm [İsmail Sergen Göçmen][portfolio] 👋 
 
-## I'm a Software Engineer
+## Software Engineer
 
-- 🌱 I’m currently learning everything 
 - <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently Software Engineer at [BILSEN](https://bilsen.cs.bilkent.edu.tr/).
 
 ### Connect with me:
