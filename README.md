@@ -4,7 +4,7 @@
 
 ### Software Engineer
 
-- 🌱 I’m currently practicing back-end development
+- 🌱 I’m currently learning testing and AWS Cloud Services
 - <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently software engineer at [BILSEN](https://bilsen.cs.bilkent.edu.tr/)
 - 📫 How to reach me: 
 <a href="https://linkedin.com/in/ismailsergengocmen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20" width="20" /></a>
