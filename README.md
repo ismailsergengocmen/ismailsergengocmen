@@ -4,7 +4,7 @@
 
 ### Software Engineer
 
-- 🌱 I’m currently learning docker and AWS Cloud Services
+- 🌱 I’m currently learning Docker and AWS Cloud Services
 - <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently software engineer at [BILSEN](https://bilsen.cs.bilkent.edu.tr/)
 - 📫 How to reach me: 
 <a href="https://linkedin.com/in/ismailsergengocmen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20" width="20" /></a>
@@ -12,7 +12,6 @@
 
 ### Under my belt
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
