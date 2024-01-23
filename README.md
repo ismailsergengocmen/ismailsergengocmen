@@ -1,7 +1,5 @@
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> Hi, I'm [İsmail Sergen Göçmen][portfolio] 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailsergengocmen&label=Views&color=blue&style=plastic&style=for-the-badge" alt="ismailsergengocmen" /> </p>
-
 ### Software Engineer
 
 - <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently researcher at [BILSEN](https://bilsen.cs.bilkent.edu.tr/)
