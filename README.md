@@ -1,12 +1,11 @@
-# Hi there, I'm [İsmail Sergen Göçmen][portfolio] <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
+# <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> Hi, I'm [İsmail Sergen Göçmen][portfolio] 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailsergengocmen&label=Views&color=blue&style=plastic&style=for-the-badge" alt="ismailsergengocmen" /> </p>
 
 ### Software Engineer
 
 - <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently researcher at [BILSEN](https://bilsen.cs.bilkent.edu.tr/)
-- 📫 How to reach me: 
-<a href="https://linkedin.com/in/ismailsergengocmen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20" width="20" /></a>
+- 📫 How to reach me: <a href="https://linkedin.com/in/ismailsergengocmen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20" width="20" /></a>
 
 
 ### Under my belt
